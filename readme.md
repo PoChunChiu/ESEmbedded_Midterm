@@ -1,3 +1,7 @@
+### 已完成，GDB截圖請看「midterm.jpg」
+
+
+
 #### 2019.05.01
 
 ## Midterm ─ [Embedded System Development and OS Design](http://www.nc.es.ncku.edu.tw/course/embedded/)
